@@ -61,4 +61,43 @@ public class TaskManager
             Console.WriteLine($"[{task.Id}] {task.Description} - {task.Status}");
         }
     }
+    public void UpdateTask(List<TaskItem> tasks, int id, string newDescription)
+    {
+        var task = tasks.FirstOrDefault(t => t.Id == id);
+        if (task == null)
+        {
+            Console.WriteLine($"Task with ID {id} not found.");
+            return;
+        }
+
+        task.Description = newDescription;
+        Console.WriteLine($"Task [{id}] updated.");
+    }
+
+    public void DeleteTask(List<TaskItem> tasks, int id)
+    {
+        var task = tasks.FirstOrDefault(t => t.Id == id);
+        if (task == null)
+        {
+            Console.WriteLine($"Task with ID {id} not found.");
+            return;
+        }
+
+        tasks.Remove(task);
+        Console.WriteLine($"Task [{id}] deleted.");
+    }
+
+    public void MarkTask(List<TaskItem> tasks, int id, TaskCli.Models.TaskStatus newStatus)
+    {
+        var task = tasks.FirstOrDefault(t => t.Id == id);
+        if (task == null)
+        {
+            Console.WriteLine($"Task with ID {id} not found.");
+            return;
+        }
+
+        task.Status = newStatus;
+        Console.WriteLine($"Task [{id}] marked as {newStatus}.");
+    }
+
 }

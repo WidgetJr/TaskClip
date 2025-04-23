@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskClip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5072a58ca48cd5be21d0b513cf19451daf09d21f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskClip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskClip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

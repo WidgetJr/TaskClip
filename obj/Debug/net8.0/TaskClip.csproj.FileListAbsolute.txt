@@ -12,3 +12,4 @@ C:\Github\TaskClip\obj\Debug\net8.0\refint\TaskClip.dll
 C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.pdb
 C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.genruntimeconfig.cache
 C:\Github\TaskClip\obj\Debug\net8.0\ref\TaskClip.dll
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.sourcelink.json
