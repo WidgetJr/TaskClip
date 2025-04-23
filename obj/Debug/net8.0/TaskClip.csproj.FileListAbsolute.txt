@@ -1,0 +1,14 @@
+C:\Github\TaskClip\bin\Debug\net8.0\TaskClip.exe
+C:\Github\TaskClip\bin\Debug\net8.0\TaskClip.deps.json
+C:\Github\TaskClip\bin\Debug\net8.0\TaskClip.runtimeconfig.json
+C:\Github\TaskClip\bin\Debug\net8.0\TaskClip.dll
+C:\Github\TaskClip\bin\Debug\net8.0\TaskClip.pdb
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.AssemblyInfoInputs.cache
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.AssemblyInfo.cs
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.csproj.CoreCompileInputs.cache
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.dll
+C:\Github\TaskClip\obj\Debug\net8.0\refint\TaskClip.dll
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.pdb
+C:\Github\TaskClip\obj\Debug\net8.0\TaskClip.genruntimeconfig.cache
+C:\Github\TaskClip\obj\Debug\net8.0\ref\TaskClip.dll
